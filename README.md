@@ -31,12 +31,12 @@ Step 8: Save and run the application.
 ```
 /*
 Program to display animation operation”.
-Developed by: KARTHICK S
-Registeration Number :212224230114
+Developed by: DAKSHINA MOORTHY N D
+Registeration Number :212224230049
 */
 ```
 ## mainactivity.java
-```python
+```
 package com.example.animation;
 
 import android.os.Bundle;
@@ -92,7 +92,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## acticity_main.xml
-```python
+```
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
@@ -215,7 +215,7 @@ public class MainActivity extends AppCompatActivity {
 </LinearLayout>
 ```
 ## blink.xml
-```python
+```
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <alpha android:fromAlpha="0.0"
@@ -227,7 +227,7 @@ public class MainActivity extends AppCompatActivity {
 </set>
 ```
 ## fade.xml
-```python
+```
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android"
     android:interpolator="@android:anim/accelerate_interpolator">
@@ -247,7 +247,7 @@ public class MainActivity extends AppCompatActivity {
 </set>
 ```
 ## move.xml
-```python
+```
 <?xml version="1.0" encoding="utf-8"?>
 <set
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -262,7 +262,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## rotate.xml
-```python
+```
 <?xml version="1.0" encoding="utf-8"?>
 <set
     xmlns:android="http://schemas.android.com/apk/res/android">
@@ -284,7 +284,7 @@ public class MainActivity extends AppCompatActivity {
 </set>
 ```
 ## slide.xml
-```python
+```
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android"
     android:fillAfter="true" >
@@ -298,7 +298,7 @@ public class MainActivity extends AppCompatActivity {
 </set>
 ```
 ## zoom.xml
-```python
+```
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android"
     android:fillAfter="true" >
@@ -315,7 +315,7 @@ public class MainActivity extends AppCompatActivity {
 </set>
 ```
 ## string.xml
-```python
+```
 <resources>
     <string name="app_name">GFG App</string>
     <string name="blink">BLINK</string>
@@ -333,7 +333,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/c9cc61fb-0458-470d-8f15-0b1ec6d65f2c" />
+<img width="1265" height="750" alt="image" src="https://github.com/user-attachments/assets/ac5205fb-8389-4d5e-981e-187dbc7f4967" />
 
 
 
